@@ -1,1 +1,4 @@
-/.DS_Store
+.DS_Store
+/dataset/*
+/backup/*
+result/.DS_Store
