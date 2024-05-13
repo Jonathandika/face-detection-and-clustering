@@ -1,4 +1,5 @@
 .DS_Store
 /dataset/*
 /backup/*
-result/.DS_Store
+/result/cluster/*
+/result/extract/*
